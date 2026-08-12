@@ -62,7 +62,7 @@ This is a mod for an old build of destiny 2. You need to provide the build yours
 - A Cheat
 - A Custom Server (except for exploration nothing is functional)
 
-You need to own a copy of destiny 2 to launch this mod. It does not enable any cheating or exploitation. It is soley made to visit old maps and explore them in engine.
+You need to own a copy of destiny 2 to launch this mod. It does not enable any cheating or exploitation. It is solely made to visit old maps and explore them in engine.
 
 Legal Disclaimer:
 This project is not for profit. It does not affect live servers or newer versions of destiny where research like this could pose a security risk. No game data will be included in the release so this is not a copyright violation. This is also not a circumvention of protective measures. Please do not file any DMCA or other copyright claims against this. Legal action will be taken for abuse of the copyright system to censor this work. 
