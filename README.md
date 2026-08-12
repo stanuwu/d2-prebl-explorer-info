@@ -17,7 +17,7 @@ Release this week.
 > 
 > depot 1085662 manifest 2210332166360342287
 >
-> Install them to the same folder, keep in mind this means a manual install of the mod later down the line. If you are not comforable with that the just wait for release, I will have an installer.
+> Install them to the same folder, keep in mind this means a manual install of the mod later down the line. If you are not comfortable with that then just wait for release, I will have an installer.
 
 ## Features
 - Load into any destination / activity
