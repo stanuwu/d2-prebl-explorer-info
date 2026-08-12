@@ -47,7 +47,7 @@ Release this week.
 
 > Q: Can i pick my character, weapon, subclass?
 > 
-> A: Not easily. All the progression is hardcoded, doing these things ingame is currently not supported. The character data is in a config so if you have knowledge of these systems (api, hashes, plugs, ect.) you can configure the characters to your liking. 
+> A: Not easily. All the progression is hardcoded, doing these things ingame is currently not supported. The character data is in a config so if you have knowledge of these systems (api, hashes, plugs, etc.) you can configure the characters to your liking. 
 
 > Q: What version is this?
 >
